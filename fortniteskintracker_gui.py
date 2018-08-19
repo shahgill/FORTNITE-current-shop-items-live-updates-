@@ -5,7 +5,7 @@ import json
 root = Tk()
 #73231
 
-photol = PhotoImage(file = "C:/Users/GILL/Desktop/Screenshot (8).gif")
+photol = PhotoImage(file = "YOUR FAVOURITE FORTNITE BACKGROUND'S URL")
 label= Label(root, image = photol)
 label.pack()
 
